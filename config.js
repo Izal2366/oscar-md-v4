@@ -61,7 +61,7 @@ global.ppulsa = '081380448281' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'gada' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285724331475' //Nomor Bot
+global.nomorbot = '6285894133618' //Nomor Bot
 global.nomorown = '6281380448281' //Nomor Owner
 global.namebot = 'DILZPX-BOT'  //Nama Bot
 global.nameown = 'DILZPX'  // Nama Owner
@@ -69,7 +69,7 @@ global.nameown = 'DILZPX'  // Nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281380448281', '❦ Dilzpx 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285894133618', '❦ Dilzpx 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
